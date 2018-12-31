@@ -40,12 +40,6 @@ The goals / steps of this project are the following:
 
 I used 3 basic functionalities for numpy arrays: `len()`, `.shape` and `np.unique()` in order to obtain the sizes of the training, validation and test data.
 
-Number of training examples = 34799
-Number of validation examples = 4410
-Number of testing examples = 12630
-Image data shape = (32, 32, 3)
-Number of classes = 43
-
 * The size of training set is 34799
 * The size of the validation set is 4410
 * The size of test set is 12630
